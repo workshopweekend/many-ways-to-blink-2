@@ -1,4 +1,4 @@
-# Many Ways to Blink 2: Light Sensor to LED by Malcolm Knapp
+# Many Ways to Blink 2: Light Sensor to LED
 
 This tutorial shows you how to switch out the potentiometer for a light sensor. We will go through how to change the electronics and code to make this new system give you the same behavior as the Potentiometer to LED. The trick about this code is that the Light Sensor does not have the same input range as the potentiometer. As you saw before with the potentiometer, sensorValue can range from 0 to 1023. The light sensor resistance does not change as much as the potentiometer and so the range of . We will show you how to find this new range and update the code so it will have the same behavior as before 
 
