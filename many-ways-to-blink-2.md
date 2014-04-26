@@ -13,7 +13,7 @@ This tutorial shows you how to switch out the potentiometer for a light sensor. 
 
 # Code Steps
 * Save the "Many Ways to Blink 1" code as "Many Ways to Blink 2". NOTE: The full code is at the end of this tutorial.
-* Now we need to add some variables to store the min and max sensor values. You can see where to add them in the <a href="">Code Difference pdf</a> 
+* Now we need to add some variables to store the min and max sensor values. You can see where to add them in the <a href="https://github.com/workshopweekend/many-ways-to-blink-2/blob/master/many-ways-to-blink-2.pdf">Code Difference pdf</a> 
 
 
 	int maxValue = 1023;
